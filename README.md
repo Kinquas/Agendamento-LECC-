@@ -10,5 +10,8 @@
 <p>Os dois apps são rápidos e simples de usar, as limitações até agora encontradas são as notificações.</p>
 <p>O <i><b>Agenda do Estudante Pro</b></i> não notifica os eventos marcados no calendário e não disponibiliza a visualização de um dia completo com as horas de um dia completo, o que dificulta a visualização do dia com dois ou mais eventos.</p>
 <p>O <i><b>Agenda Escolar</b></i> por sua vez, notifica o evento apenas um dia antes, uma melhoria nesse caso séria escolher qual ou quais dias será notificado o evento e qual horário.</p>
+<h2> Motivação </h2>
+<p> O objetivo da criação do aplicativo é facilitar o acesso aos Lecc’s para a realização de atividades tanto pelos professores como pelos alunos, proporcionando uma melhor organização no agendamento. </p>
+
 <h2> Equipe </h2>
 <p> &ensp; • Arthur Soares Guilherme</p> <p> &ensp; • Guilherme Olivera Vaz</p> <p> &ensp; • Larissa Maria dos Santos </p> <p> &ensp; • Osnaelle Silva Farias </p> <p> &ensp; • Vinicius Alves de Oliveira Romão</p>
