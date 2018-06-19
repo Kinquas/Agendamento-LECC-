@@ -1,4 +1,4 @@
-# Agendamento-LECC-
+# A-LECC
 <h2>Sobre o projeto</h2>
 <p>Aplicativo de agendamento de dias e horários com verificação de disponibilidade, que visa ajudar professores e alunos que pretendem usar os laboratórios da UFAL.</p>
 <h2> Trabalhos relacionados </h2>
